@@ -4,12 +4,12 @@
 
 
 ## Using
- Just write the text you want to add to the list on the bar in the middle and click **Add** and it will appear in the list.
+ Just write the text you want to add to the list on the bar in the middle and click `Add` and it will appear in the list.
  
  When you have done what to do, just click to strikethrough on it.
  
  When you click twice, it deletes only the text you clicked twice.
  
- You must click **clear** to delete them all.
+ You must click `Clear` to delete them all.
  
  
